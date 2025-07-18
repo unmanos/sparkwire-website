@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# Welcome to My Site
+
+This is the landing page.
